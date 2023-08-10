@@ -32,6 +32,7 @@ that discourage, exhaust, or otherwise negatively affect other participants.
   * [Collaborators](#collaborators)
   * [Triagers](#triagers)
   * [Release keys](#release-keys)
+  * <openworkspacespace@outlook.com
 * [License](#license)
 
 ## Support
